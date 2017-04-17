@@ -5,3 +5,4 @@ Thunbs.db
 *.class
 */target/classes/.gitignore
 */target/test-classes/.gitignore
+*/target/classes/*
