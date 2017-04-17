@@ -3,3 +3,5 @@ target/*
 *.class
 *.bak
 Thunbs.db
+*/target/maven*
+*/target/surefire*
