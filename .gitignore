@@ -3,3 +3,5 @@ Thunbs.db
 */target/maven*
 */target/surefire*
 *.class
+*/target/classes/.gitignore
+*/target/test-classes/.gitignore
