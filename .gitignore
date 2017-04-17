@@ -1,7 +1,5 @@
-target/*
-.settings/*
-*.class
-*.bak
 Thunbs.db
+*/.settings/*
 */target/maven*
 */target/surefire*
+*.class
