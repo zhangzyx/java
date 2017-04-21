@@ -9,3 +9,4 @@ Thunbs.db
 /target/
 dependency-reduced-pom.xml
 .settings/*
+*/target/*
