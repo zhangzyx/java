@@ -6,3 +6,7 @@ Thunbs.db
 */target/classes/.gitignore
 */target/test-classes/.gitignore
 */target/classes/*
+/target/
+
+dependency-reduced-pom.xml
+.settings/*
