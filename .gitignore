@@ -10,3 +10,5 @@ Thunbs.db
 dependency-reduced-pom.xml
 .settings/*
 */target/*
+*/*/.settings/*
+*/*/.gitignore
